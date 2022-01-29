@@ -1,4 +1,4 @@
-# Module-1 (Linux) 🐧
+# Module-1 (Linux & Bash) 🐧
 
 Welcome to the first module of Year of Security (YoS)!</br>
 Firstly here are some resources to get you started with Linux.
