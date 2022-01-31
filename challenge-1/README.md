@@ -10,6 +10,8 @@ This challenge is supposed to get you started with bash scripting </br>
 * You have to do this unzipping many times (Ummm... maybe I chose 690 but not sure xD) until you get the flag; hence you need to write a bash script for it 
 
 ## Submission instruction
-In your repo make a directory called `challenge-1-submission` and create a `script.sh` file in it. Also the first line of your `scipt.sh` should be a comment with the flag you obtained
+In this repo inside the `challenge-1` directory we have already created `script.sh` file. </br>
+Modify `script.sh` and write your script in it. </br>
+Also the first line of your `scipt.sh` should be a comment with the flag you obtained
 maybe auto check ---
 
