@@ -15,7 +15,8 @@ The freedom and simplicity Linux offers make it a popular choice among developer
 There are a lot of ways to get a Linux system running on your computer : you may choose to dual boot Linux with Windows, install WSL2 on windows (Window's Subsystem for Linux) or use Linux in a Virtual Machine. <br>
 For the sake of this course, you can use the CSec Club's very own [Virtual Machine](https://iitbacin-my.sharepoint.com/personal/180050089_iitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F180050089%5Fiitb%5Fac%5Fin%2FDocuments%2FCsec%202021%2D22%2FTools), which comes preinstalled with most of the cybersecurity tools you will ever need. If you choose to dual boot or use WSL, you will need to select a "distribution" of Linux to install. [Ubuntu](https://ubuntu.com/) is a popular choice for beginners, but you may search for and use alternatives.<br>
 
-This week's content also includes an introduction to shell scripting. Shell scripting enables one to automate tasks that otherwise require 100s of mouse clicks and other interesting stuff. The resources below will be help you to gain familiarity with both linux and shell scripting. If you are wondering how all this is relevant to hacking or solving CTF (capture the flag) challenges, we have several video walkthroughs linked below.
+This week's content also includes an introduction to shell scripting. Shell scripting enables one to automate tasks that otherwise require 100s of mouse clicks and also some other interesting stuff. The resources below will be help you to gain familiarity with both linux and shell scripting.<br>
+If you are wondering how all this is relevant to hacking or solving CTF (capture the flag) challenges, we have several video walkthroughs linked below.
 
 ### Introductory Videos: 
 1. [What is Linux used for?](https://www.youtube.com/watch?v=YA-3NI_Lfns)  (5 mins)
