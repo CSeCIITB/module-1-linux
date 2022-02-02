@@ -16,7 +16,7 @@ There are a lot of ways to get a Linux system running on your computer : you may
 For the sake of this course, you are recommended to use CSec Club's very own [Virtual Machine](https://iitbacin-my.sharepoint.com/personal/180050089_iitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F180050089%5Fiitb%5Fac%5Fin%2FDocuments%2FCsec%202021%2D22%2FTools) which comes preinstalled with most of the cybersecurity tools you will ever need. If you choose to dual boot or use WSL, you will need to select a "distribution" of Linux to install. [Ubuntu](https://ubuntu.com/) is a popular choice for beginners, but you may search for and use alternatives.<br>
 
 This week's content also includes an introduction to shell scripting. Shell scripting enables one to automate tasks that otherwise require 100[s](https://www.youtube.com/watch?v=K19COVM5XuA) of mouse clicks and also some other interesting stuff. The resources below will be help you to gain familiarity with both linux and shell scripting.<br>
-If you are wondering how all this is relevant to hacking or solving CTF (capture the flag) challenges, we have several video walkthroughs linked below.
+If you are wondering how all this is relevant to hacking or solving CTF (capture the flag) challenges, we have several video walkthroughs for the same linked below.
 
 ### Introductory Videos: 
 1. [What is Linux used for?](https://www.youtube.com/watch?v=YA-3NI_Lfns)  (5 mins)
@@ -24,8 +24,8 @@ If you are wondering how all this is relevant to hacking or solving CTF (capture
 3. [Write Your Own Bash Scripts for Automation](https://www.youtube.com/watch?v=PPQ8m8xQAs8) (15 mins)
 
 ### Text Guides : <sub><sup><sub>[ bi0s \_/\\_ ]</sub></sup></sub>
-1. Linux+Python intro  : [Getting Started - bi0s wiki](https://wiki.bi0s.in/basics/intro/)
-2. Commands : [Linux Commands - bi0s wiki](https://wiki.bi0s.in/basics/linux_commands/)
+1. Linux+Python intro  : [Getting Started - bi0s wiki](https://wiki.bi0s.in/basics/intro/) 
+2. Commands : [Linux Commands - bi0s wiki](https://wiki.bi0s.in/basics/linux_commands/)| [Basics of Linux](https://d00mfist.gitbooks.io/ctf/content/basics_of_linux.html)
 3. Bash Scripting : [Bash conditions and loops - bi0s wiki](https://wiki.bi0s.in/basics/one_liners/) | [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 4. Stdin, Stderr, Stdout: [Files - bi0s wiki](https://wiki.bi0s.in/basics/files/)
 
@@ -37,7 +37,7 @@ If you are wondering how all this is relevant to hacking or solving CTF (capture
 5. files \[stdin, stderr, stdout\] [Piping Stdin & Redirecting Stderr picoCTF 2018](https://www.youtube.com/watch?v=_eNqR96OLCQ) (5 mins)
 6. symbolic links [Just No - picoCTF 2017](https://www.youtube.com/watch?v=IicZGJM2kv8) (8 mins)
     
-### For More Practice:
+### For Practice:
 1. [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
 
 
