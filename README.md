@@ -6,9 +6,9 @@ The topics we will study this week are <b>Linux</b> and <b>Shell Scripting</b>. 
 Linux is an operating system just like Windows and MacOS. An operating system is a piece of code that enables the computer software to communicate and operate with the computer hardware easily. Unlike Windows and MacOS though, Linux is free and open-source. What this means is that you don't need to pay to use Linux and can even look at the [source code](https://github.com/torvalds/linux) yourself (unlike other operating systems where the source code is a trade secret).<br>
 The freedom and simplicity Linux offers make it a popular choice among developers and hackers. Hence, many applications that we will use throughout this course are exclusively available on Linux systems. Apart from all this, Linux is much more reliable, performant and customizable than other operating systems.
 <p align="center">
-  <img src="https://github.com/CSecIITB/module-1-linux/blob/main/1.webp" width="300" />
+  <img src="1.webp" width="300" />
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/CSecIITB/module-1-linux/blob/main/2.webp" width="300" /><br>
+  <img src="2.webp" width="300" /><br>
   <sup>An average linux user's desktop</sup>
 </p>
 
