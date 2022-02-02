@@ -25,7 +25,7 @@ If you are wondering how all this is relevant to hacking or solving CTF (capture
 
 ### Text Guides : <sub><sup><sub>[ bi0s \_/\\_ ]</sub></sup></sub>
 1. Linux+Python intro  : [Getting Started - bi0s wiki](https://wiki.bi0s.in/basics/intro/) 
-2. Commands : [Linux Commands - bi0s wiki](https://wiki.bi0s.in/basics/linux_commands/)| [Basics of Linux](https://d00mfist.gitbooks.io/ctf/content/basics_of_linux.html)
+2. Commands : [Linux Commands - bi0s wiki](https://wiki.bi0s.in/basics/linux_commands/) | [Basics of Linux](https://d00mfist.gitbooks.io/ctf/content/basics_of_linux.html)
 3. Bash Scripting : [Bash conditions and loops - bi0s wiki](https://wiki.bi0s.in/basics/one_liners/) | [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 4. Stdin, Stderr, Stdout: [Files - bi0s wiki](https://wiki.bi0s.in/basics/files/)
 
