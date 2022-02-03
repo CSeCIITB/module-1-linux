@@ -43,7 +43,8 @@ Lastly, the challenges that you need to solve to **complete** this week's materi
 6. symbolic links [Just No - picoCTF 2017](https://www.youtube.com/watch?v=IicZGJM2kv8) (8 mins)
     
 ### Practice :
-1. [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+
 
 
 # Challenges :
