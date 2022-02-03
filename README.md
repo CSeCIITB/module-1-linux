@@ -24,7 +24,7 @@ Lastly, the challenges that you need to solve to **complete** this week's materi
 2. [Beginner's Guide To The Linux Terminal](https://www.youtube.com/watch?v=s3ii48qYBxA) (40 mins)
 3. [Write Your Own Bash Scripts for Automation](https://www.youtube.com/watch?v=PPQ8m8xQAs8) (15 mins)
 
-### Text Guides : <sub><sup><sub>[ bi0s \_/\\_ ]</sub></sup></sub>
+### Text Guides : <sub><sup><sub>[ bi0s 🙏 ]</sub></sup></sub>
 1. Linux+Python intro  : [Getting Started - bi0s wiki](https://wiki.bi0s.in/basics/intro/) 
 2. Commands : [Linux Commands - bi0s wiki](https://wiki.bi0s.in/basics/linux_commands/) | [Basics of Linux](https://d00mfist.gitbooks.io/ctf/content/basics_of_linux.html)
 3. Bash Scripting : [Bash conditions and loops - bi0s wiki](https://wiki.bi0s.in/basics/one_liners/) | [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
