@@ -48,3 +48,6 @@ Lastly, the challenges that you need to solve to **complete** this week's materi
 
 # Challenges :
 We have prepared 3 challenges : [Zip Mania](https://github.com/CSecIITB/module-1-linux/tree/main/challenge-1), [Web Mania](https://github.com/CSecIITB/module-1-linux/tree/main/challenge-2) and [env Pollution](https://github.com/CSecIITB/module-1-linux/tree/main/challenge-3). All challenges are present in different folders of this repository. To complete this week's portion, you need to solve **ANY 2 OR ALL 3** of these challenges. Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun 😁
+
+Use our [Discord Server](https://discord.gg/nnpCPsUrYV) for discussing any doubts.
+<p align="center">Created with :heart: by <a href="https://linktr.ee/csec.iitb">CSeC</a></p>
