@@ -16,7 +16,13 @@ There are a lot of ways to get a Linux system running on your computer : you may
 For the sake of this course, you are recommended to use CSec Club's very own [Virtual Machine](https://iitbacin-my.sharepoint.com/personal/180050089_iitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F180050089%5Fiitb%5Fac%5Fin%2FDocuments%2FCsec%202021%2D22%2FTools) which comes preinstalled with most of the cybersecurity tools you will ever need. The installation instructions are provided in the `README.docx` file of the same folder that is linked above. <br>
 If you choose to dual boot or use WSL, you will need to select a "distribution" of Linux to install. [Ubuntu](https://ubuntu.com/) is a popular choice among beginners, but you may search for and use alternatives. There are plenty of tutorials on the web for doing so.<br>
 
-This week's content also includes an introduction to shell scripting. Shell scripting enables one to automate tasks that otherwise require 100[s](https://www.youtube.com/watch?v=K19COVM5XuA) of mouse clicks and also some other interesting stuff. The resources below will be help you to gain familiarity with both linux and shell scripting. After goin through them, you can practice and hone your command line skills by playing the wargame linked in the `Practice` section. If you are wondering how all this is relevant to hacking or solving CTF (capture the flag) challenges, we even have several video walkthroughs for the same linked below. <br>
+Unfortunately though, those with Mac M1 laptops will not be able to enjoy the benefits of Linux just yet due to the unavailable virtualbox and ofcourse other things.
+However, the good news is that most of the commands which we will be employing this time would also be usable from Mac OS itself and thus, Mac users(not just M1 users) do not
+necessarily need to install Linux right away. In the longer term though, Linux would turn out be more important than anything else and we will be looking into possible
+solutions which can be employed, albeit a little later.
+
+This week's content also includes an introduction to shell scripting. Shell scripting enables one to automate tasks that otherwise require [100s](https://www.youtube.com/watch?v=K19COVM5XuA) of mouse clicks and other kinds of interesting stuff as well. The resources provided below will help you gain familiarity with both linux and shell scripting. After going through them, you can practice and hone your command line skills by playing the wargame linked in the `Practice` section. If you are wondering how all this is relevant to hacking or solving CTF (capture the flag) challenges, we even have several video walkthroughs for the same linked below. <br>
+
 Lastly, the challenges that you need to solve to **complete** this week's material are linked in the `Challenges` section.
 
 ### Introductory Videos : 
@@ -48,7 +54,9 @@ Lastly, the challenges that you need to solve to **complete** this week's materi
 
 
 # Challenges :
-We have prepared 3 challenges : [Zip Mania](https://github.com/CSecIITB/module-1-linux/tree/main/challenge-1), [Web Mania](https://github.com/CSecIITB/module-1-linux/tree/main/challenge-2) and [env Pollution](https://github.com/CSecIITB/module-1-linux/tree/main/challenge-3). All challenges are present in different folders of this repository. To complete this week's portion, you need to solve **ANY 2 OR ALL 3** of these challenges. Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun 😁
+We have prepared 3 challenges : [Zip Mania](challenge-1), [Web Mania](challenge-2) and [env Pollution](challenge-3). All challenges are present in different folders of this
+repository. All in all, you would need to solve **atleast 2 challenges throughtout the module** but we encourage that you solve all of these, for things are more fun that way
+😊. Make sure you go through the respective `README.md` files before jumping into the challenge. Have fun!😁
 
-Use our [Discord Server](https://discord.gg/nnpCPsUrYV) for discussing any doubts.
+Discussions among mentees are encouraged and we request you to use our [Discord Server](https://discord.gg/nnpCPsUrYV) for the same.
 <p align="center">Created with :heart: by <a href="https://linktr.ee/csec.iitb">CSeC</a></p>
