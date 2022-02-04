@@ -13,7 +13,7 @@ The freedom and simplicity Linux offers make it a popular choice among developer
 </p>
 
 There are a lot of ways to get a Linux system running on your computer : you may choose to dual boot Linux with Windows, install WSL2 on windows (Window's Subsystem for Linux) or use Linux in a Virtual Machine. <br>
-For the sake of this course, you are recommended to use CSec Club's very own [Virtual Machine](https://iitbacin-my.sharepoint.com/personal/180050089_iitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F180050089%5Fiitb%5Fac%5Fin%2FDocuments%2FCsec%202021%2D22%2FTools) which comes preinstalled with most of the cybersecurity tools you will ever need. The installation instructions are provided in the `README.docx` file of the same folder that is linked above. <br>
+For the sake of this course, you are recommended to use CSec Club's very own [Virtual Machine](https://iitbacin-my.sharepoint.com/:f:/g/personal/180050089_iitb_ac_in/Ev9kNTaBIthDm74nWYFeVowB1vSpPSpmxXdLMMTn3dL76Q) which comes preinstalled with most of the cybersecurity tools you will ever need. The installation instructions are provided in the `README.docx` file of the same folder that is linked above. <br>
 If you choose to dual boot or use WSL, you will need to select a "distribution" of Linux to install. [Ubuntu](https://ubuntu.com/) is a popular choice among beginners, but you may search for and use alternatives. There are plenty of tutorials on the web for doing so.<br>
 
 Unfortunately though, those with Mac M1 laptops will not be able to enjoy the benefits of Linux just yet due to the unavailable virtualbox and ofcourse other things.
