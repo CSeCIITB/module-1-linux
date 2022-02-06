@@ -1,6 +1,6 @@
 # Challenge 1 (Zip Mania) Bash
 ```
-challenge file upadated in Feb 6
+challenge file upadated on Feb 6 at 20:40
 ```
 hmmm ... the 1st challenge for YoS.
 
