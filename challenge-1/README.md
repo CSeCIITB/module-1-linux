@@ -1,5 +1,7 @@
 # Challenge 1 (Zip Mania) Bash
-
+```
+challenge file upadated in Feb 6
+```
 hmmm ... the 1st challenge for YoS.
 
 This challenge is supposed to get you started with bash scripting </br>
